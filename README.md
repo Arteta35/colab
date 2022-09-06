@@ -1,3 +1,1 @@
 # First colab
-
-first text
